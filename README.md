@@ -96,5 +96,5 @@ Each folder contains:
 
 ## 📫 Contact
 
-Created by **[Christian Zikpi]**  
+Created by **Christian Zikpi**  
 📧 christianzikpi@gmail.com • [LinkedIn](https://linkedin.com/in/kzikpi)
