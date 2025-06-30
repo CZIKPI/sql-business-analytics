@@ -93,4 +93,4 @@ Each folder contains:
 ## 📫 Contact
 
 Created by **[Your Name]**  
-📧 your.email@example.com • [LinkedIn](https://linkedin.com/in/yourname)
+📧 christianzikpi@gmail.com • [LinkedIn](https://linkedin.com/in/kzikpi)
