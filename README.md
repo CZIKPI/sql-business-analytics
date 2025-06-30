@@ -62,8 +62,6 @@ Represents items available for purchase.
 | Folder | Description |
 |--------|-------------|
 | [`/sales_analysis`](./sales_analysis) | Revenue KPIs, growth trends, order volumes, top customers |
-| [`/customer_behavior`](./customer_behavior) | Customer value, multi-year activity, segmentation |
-| [`/risk_analysis`](./risk_analysis) | Returns, delayed deliveries, cancellation trends |
 
 Each folder contains:
 - ✅ Business-driven SQL questions
@@ -72,15 +70,21 @@ Each folder contains:
 
 ---
 
-## 🔍 Example Questions Answered
-
-- How many orders were completed each year?
-- What is the average delivery time by customer region?
-- Who are the top 3 customers by total spend?
-- What is the total revenue from each product category?
-- What is the year-over-year sales growth from 2020 to 2025?
-- How does revenue from completed orders compare to returned ones?
-
+## Key Analyses
+| Query | Description |
+|-------|-------------|
+| Q1    | Orders placed each year |
+| Q2    | Revenue per year (completed orders) |
+| Q3    | Month with most orders |
+| Q4    | Year-over-year sales growth |
+| Q5    | Highest avg order amount by year |
+| Q6    | Revenue: Completed vs Pending |
+| Q7    | Avg shipping time (days) |
+| Q8    | Running monthly total |
+| Q9    | Top 3 customers by revenue |
+| Q10   | Cancelled orders per year |
+| Q11   | Avg order in Q1 per year |
+| Q12   | Customers ordering in multiple years |
 ---
 
 ## 🛠 Tools
