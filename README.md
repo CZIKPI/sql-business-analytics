@@ -61,7 +61,7 @@ Represents items available for purchase.
 
 | Folder | Description |
 |--------|-------------|
-| [`/sales_analysis`](./sales_analysis) | Revenue KPIs, growth trends, order volumes, top customers |
+| [`/sales_analysis`](https://github.com/CZIKPI/sql-business-analytics/blob/main/sales_dashboard_queries.sql) | Revenue KPIs, growth trends, order volumes, top customers |
 
 Each folder contains:
 - ✅ Business-driven SQL questions
